@@ -1,2 +1,2 @@
 * [index.html](file:///index.html)
-* <a href="file:///index.html">index.html</a>
+* <a href="file:///">click me!</a>
